@@ -1,0 +1,15 @@
+LDI r1 0
+LDI r2 0
+LDI r3 0
+LDI r4 0
+LDI r5 0
+LDI r6 0
+LDI r7 0
+LDI r8 0
+LDI r9 0
+LDI r10 0
+LDI r11 0
+LDI r12 0
+LDI r13 0
+LDI r14 0
+LDI r15 0
